@@ -1,0 +1,11 @@
+{
+  "name": "ergolens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 server.py",
+    "check": "node --check app.js",
+    "test": "node --test metrics.test.js"
+  }
+}
